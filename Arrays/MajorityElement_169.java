@@ -2,7 +2,6 @@ package Arrays;
 
 public class MajorityElement_169 {
     public static int majorityElement(int nums[]) {
-        int n = nums.length;
         int freq = 0;
         int ans = 0;
         for (int i = 0; i < nums.length; i++) {
