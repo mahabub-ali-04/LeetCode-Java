@@ -16,17 +16,7 @@ public class MajorityElement_169 {
             }
         }
 
-        freq = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == ans) {
-                freq++;
-            }
-        }
-
-        if (freq > n / 2) {
-            return ans;
-        }
-        return -1;//no majority
+        return ans;
     }
 
     public static void main(String args[]) {
