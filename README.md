@@ -32,10 +32,10 @@ Each solution includes:
 ---
 
 ## 📊 Progress
-- Total Problems Solved: 6 
-- Easy: 6
+- Total Problems Solved: 8 
+- Easy: 7
 - Medium: 0
-- Hard: 0
+- Hard: 1
 
 ---
 
